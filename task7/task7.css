@@ -1,0 +1,30 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    margin: 10px;
+}
+
+.buttons-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 20px
+}
+
+#box {
+    height: 50px;
+    width: 50px;
+    position: relative;
+    background-color: brown;
+}

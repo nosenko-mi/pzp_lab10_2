@@ -1,0 +1,8 @@
+html,
+body {
+    height: 100%;
+}
+
+.green {
+    background-color: rgb(115, 180, 128);
+}
